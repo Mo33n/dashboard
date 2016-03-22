@@ -14,6 +14,7 @@ Currently, we are developing the MacApp. Feel free to contribute and build the a
 
 Dashboard code will be updated continually. Take that into account to update your applications until auto-updating system is implemented (you can also collaborate with it)
 
+####Download [here](http://bit.ly/1T4dQOD) now! :rocket:
 
 ## Run it locally
 This is the desktop version of the Netbeast dashboard. If you want to run the desktop version locally run:
